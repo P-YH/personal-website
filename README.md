@@ -1,4 +1,4 @@
-# PO-YA HSU's personal-website
+# PO-YA HSU
 
 Hi, there!
 
@@ -14,9 +14,10 @@ Hi, there!
 
 ## About ME
 
+I am currently a Computer Science and Engineering PhD student at UC San Diego.  I strive to build high-quality models for medical application. 
 
 
 
-
+## [My Personal Website](https://sites.google.com/view/poyahsu/)
 
 
